@@ -1,0 +1,2428 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.4195]
+    Renderer: NVIDIA GeForce 9800 GT  
+    Vendor:   NVIDIA
+    VRAM:     999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NAudio.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.229596 ms
+RimWorld 1.0.2408 rev747
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Non platform assembly: data-00000000120EB620 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000120EB620.dll
+Non platform assembly: data-0000000012160810 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012160810.dll
+Non platform assembly: data-000000001216D030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001216D030.dll
+Non platform assembly: data-0000000012191490 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012191490.dll
+Non platform assembly: data-000000001219D3D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001219D3D0.dll
+Non platform assembly: data-00000000121BB3D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000121BB3D0.dll
+Non platform assembly: data-00000000121C94B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000121C94B0.dll
+Non platform assembly: data-00000000121DD260 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000121DD260.dll
+Non platform assembly: data-000000001224EC60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001224EC60.dll
+Non platform assembly: data-0000000012392890 (this message is harmless)
+Non platform assembly: data-0000000012392890 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012392890.dll
+Non platform assembly: data-00000000123996A0 (this message is harmless)
+Non platform assembly: data-00000000123B90B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000123B90B0.dll
+Non platform assembly: data-00000000123996A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000123996A0.dll
+Non platform assembly: data-0000000012412CC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012412CC0.dll
+Non platform assembly: data-00000000124732D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124732D0.dll
+Non platform assembly: data-00000000123A96B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000123A96B0.dll
+Non platform assembly: data-00000000123B04C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000123B04C0.dll
+Non platform assembly: data-000000001248E8E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001248E8E0.dll
+Non platform assembly: data-0000000012344F00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012344F00.dll
+Non platform assembly: data-0000000012499CF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012499CF0.dll
+Non platform assembly: data-000000001249B700 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001249B700.dll
+Non platform assembly: data-00000000124473A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124473A0.dll
+Non platform assembly: data-00000000124A4F10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124A4F10.dll
+Non platform assembly: data-00000000124A6520 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124A6520.dll
+Non platform assembly: data-00000000124ABD30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124ABD30.dll
+Non platform assembly: data-000000000DBA3500 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DBA3500.dll
+Non platform assembly: data-0000000011E686E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E686E0.dll
+Non platform assembly: data-00000000124BD940 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124BD940.dll
+Non platform assembly: data-00000000124C6D50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124C6D50.dll
+Non platform assembly: data-00000000124CCF60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124CCF60.dll
+Non platform assembly: data-00000000124E5570 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124E5570.dll
+Non platform assembly: data-00000000124EB180 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124EB180.dll
+Non platform assembly: data-00000000124F5590 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000124F5590.dll
+Non platform assembly: data-000000001251D3A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001251D3A0.dll
+Non platform assembly: data-0000000012591BB0 (this message is harmless)
+Non platform assembly: data-0000000012591BB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012591BB0.dll
+Non platform assembly: data-00000000125CA7C0 (this message is harmless)
+Non platform assembly: data-00000000125CA7C0 (this message is harmless)
+Non platform assembly: data-00000000125CA7C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125CA7C0.dll
+Non platform assembly: data-00000000125D6DD0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125D6DD0.dll
+Non platform assembly: data-00000000125D8FE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125D8FE0.dll
+Non platform assembly: data-00000000125DADF0 (this message is harmless)
+Non platform assembly: data-00000000125DADF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125DADF0.dll
+Non platform assembly: data-00000000125E9A00 (this message is harmless)
+Non platform assembly: data-00000000125E9A00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125E9A00.dll
+Non platform assembly: data-0000000011E6AEF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E6AEF0.dll
+Non platform assembly: data-00000000125EFE10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000125EFE10.dll
+Non platform assembly: data-0000000012601A10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012601A10.dll
+Non platform assembly: data-0000000012603420 (this message is harmless)
+Non platform assembly: data-0000000012603420 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012603420.dll
+Non platform assembly: data-000000001268B030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001268B030.dll
+Non platform assembly: data-00000000126C0640 (this message is harmless)
+Non platform assembly: data-00000000126C0640 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000126C0640.dll
+Non platform assembly: data-00000000126DC250 (this message is harmless)
+Non platform assembly: data-00000000126DC250 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000126DC250.dll
+Non platform assembly: data-00000000126DDC60 (this message is harmless)
+Non platform assembly: data-00000000126DDC60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000126DDC60.dll
+Non platform assembly: data-00000000126EBC70 (this message is harmless)
+Non platform assembly: data-00000000126EBC70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000126EBC70.dll
+Non platform assembly: data-000000001277FA80 (this message is harmless)
+Non platform assembly: data-000000001277FA80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001277FA80.dll
+Non platform assembly: data-00000000127A73B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127A73B0.dll
+Non platform assembly: data-00000000127A8BC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127A8BC0.dll
+Non platform assembly: data-00000000127A9DD0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127A9DD0.dll
+Non platform assembly: data-00000000127AE3E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127AE3E0.dll
+Non platform assembly: data-00000000127CC5F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127CC5F0.dll
+Non platform assembly: data-00000000127D1400 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127D1400.dll
+Non platform assembly: data-00000000127D3810 (this message is harmless)
+Non platform assembly: data-00000000127D3810 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127D3810.dll
+Non platform assembly: data-00000000127DFE20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000127DFE20.dll
+Non platform assembly: data-0000000012886E30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012886E30.dll
+Non platform assembly: data-00000000128AAE40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000128AAE40.dll
+Non platform assembly: data-00000000129289B0 (this message is harmless)
+Non platform assembly: data-00000000129289B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000129289B0.dll
+Non platform assembly: data-00000000129359C0 (this message is harmless)
+Non platform assembly: data-00000000128D8450 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000128D8450.dll
+Non platform assembly: data-00000000129359C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000129359C0.dll
+Non platform assembly: data-00000000129593D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000129593D0.dll
+Non platform assembly: data-000000001295BFE0 (this message is harmless)
+Non platform assembly: data-00000000129463D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000129463D0.dll
+Non platform assembly: data-000000001295BFE0 (this message is harmless)
+Non platform assembly: data-00000000128DC060 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000128DC060.dll
+Non platform assembly: data-000000001295BFE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001295BFE0.dll
+Non platform assembly: data-0000000012A79D60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A79D60.dll
+Non platform assembly: data-0000000012A7E770 (this message is harmless)
+Non platform assembly: data-0000000012A7E770 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A7E770.dll
+Non platform assembly: data-0000000012A92D80 (this message is harmless)
+Non platform assembly: data-0000000012A92D80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A92D80.dll
+Non platform assembly: data-0000000012A95190 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A95190.dll
+Non platform assembly: data-0000000012A96FA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A96FA0.dll
+Non platform assembly: data-0000000012AAC9B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012AAC9B0.dll
+Non platform assembly: data-0000000012AB37C0 (this message is harmless)
+Non platform assembly: data-0000000012AB37C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012AB37C0.dll
+Non platform assembly: data-0000000012AB53D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012AB53D0.dll
+Non platform assembly: data-0000000012A4FE40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012A4FE40.dll
+Non platform assembly: data-0000000012AC7DE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012AC7DE0.dll
+Non platform assembly: data-0000000012AC8FF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012AC8FF0.dll
+Non platform assembly: data-0000000012ACCE00 (this message is harmless)
+Non platform assembly: data-0000000012ACCE00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012ACCE00.dll
+Non platform assembly: data-0000000012AD9010 (this message is harmless)
+Non platform assembly: data-0000000012AD9010 (this message is harmless)
+Non platform assembly: data-00000000161C0080 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000161C0080.dll
+Non platform assembly: data-0000000012ADA9D0 (this message is harmless)
+Non platform assembly: data-0000000012B063E0 (this message is harmless)
+Non platform assembly: data-000000001624AE90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001624AE90.dll
+Non platform assembly: data-0000000012ADA9D0 (this message is harmless)
+Non platform assembly: data-0000000011E6D700 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E6D700.dll
+Non platform assembly: data-0000000012ADA9D0 (this message is harmless)
+Non platform assembly: data-0000000012ADA9D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012ADA9D0.dll
+Non platform assembly: data-00000000162AFCA0 (this message is harmless)
+Non platform assembly: data-0000000011E6FF10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E6FF10.dll
+Non platform assembly: data-00000000162AFCA0 (this message is harmless)
+Non platform assembly: data-00000000162AFCA0 (this message is harmless)
+Non platform assembly: data-00000000162AFCA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162AFCA0.dll
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Non platform assembly: data-0000000012B083E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012B083E0.dll
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Non platform assembly: data-0000000012B0D7F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000012B0D7F0.dll
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Non platform assembly: data-00000000162C7AB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162C7AB0.dll
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Non platform assembly: data-00000000162C92C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162C92C0.dll
+Non platform assembly: data-000000000DBA4910 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DBA4910.dll
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-00000000162DB6B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162DB6B0.dll
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-000000000DBA5D20 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Non platform assembly: data-00000000162DE4C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162DE4C0.dll
+Non platform assembly: data-00000000162E14D0 (this message is harmless)
+Non platform assembly: data-00000000162E14D0 (this message is harmless)
+Non platform assembly: data-00000000162E14D0 (this message is harmless)
+Non platform assembly: data-00000000162E14D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162E14D0.dll
+Non platform assembly: data-00000000162FE0E0 (this message is harmless)
+Non platform assembly: data-00000000162FE0E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000162FE0E0.dll
+Non platform assembly: data-00000000163024F0 (this message is harmless)
+Non platform assembly: data-00000000163024F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163024F0.dll
+Non platform assembly: data-000000001633A900 (this message is harmless)
+Non platform assembly: data-000000001633A900 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001633A900.dll
+Non platform assembly: data-000000001633BB10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001633BB10.dll
+Non platform assembly: data-0000000016343D20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016343D20.dll
+Non platform assembly: data-000000001637BF30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001637BF30.dll
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Configuration.dll (this message is harmless)
+Non platform assembly: data-000000001637DB40 (this message is harmless)
+Non platform assembly: data-000000001637DB40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001637DB40.dll
+Non platform assembly: data-00000000163D3150 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163D3150.dll
+Non platform assembly: data-00000000163D9F60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163D9F60.dll
+Non platform assembly: data-00000000163DC570 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163DC570.dll
+Non platform assembly: data-00000000163DDF80 (this message is harmless)
+Non platform assembly: data-00000000163DDF80 (this message is harmless)
+Non platform assembly: data-00000000163DDF80 (this message is harmless)
+Non platform assembly: data-00000000163DDF80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163DDF80.dll
+Non platform assembly: data-00000000163DF590 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163DF590.dll
+Non platform assembly: data-00000000163F2DA0 (this message is harmless)
+Non platform assembly: data-00000000163F2DA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000163F2DA0.dll
+Non platform assembly: data-000000001641D1B0 (this message is harmless)
+Non platform assembly: data-000000001641D1B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001641D1B0.dll
+Non platform assembly: data-000000001641FFC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001641FFC0.dll
+Non platform assembly: data-0000000016460BD0 (this message is harmless)
+Non platform assembly: data-0000000016460BD0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016460BD0.dll
+Non platform assembly: data-00000000164693E0 (this message is harmless)
+Non platform assembly: data-00000000164693E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164693E0.dll
+Non platform assembly: data-000000001646E3F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001646E3F0.dll
+Non platform assembly: data-0000000016478000 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016478000.dll
+Non platform assembly: data-00000000164B0EF0 (this message is harmless)
+Non platform assembly: data-00000000164A8810 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164A8810.dll
+Non platform assembly: data-00000000164B0EF0 (this message is harmless)
+Non platform assembly: data-00000000164AB620 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164AB620.dll
+Non platform assembly: data-00000000164B0EF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164B0EF0.dll
+Non platform assembly: data-00000000164B5B00 (this message is harmless)
+Non platform assembly: data-00000000164B5B00 (this message is harmless)
+Non platform assembly: data-00000000164B5B00 (this message is harmless)
+Non platform assembly: data-00000000164B5B00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164B5B00.dll
+Non platform assembly: data-00000000164C9510 (this message is harmless)
+Non platform assembly: data-0000000011E72720 (this message is harmless)
+Non platform assembly: data-00000000164C9510 (this message is harmless)
+Non platform assembly: data-00000000164C9510 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164C9510.dll
+Non platform assembly: data-00000000164CB120 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164CB120.dll
+Non platform assembly: data-00000000164CC730 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164CC730.dll
+Non platform assembly: data-00000000164D2D40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164D2D40.dll
+Non platform assembly: data-00000000164D9950 (this message is harmless)
+Non platform assembly: data-00000000164D9950 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164D9950.dll
+Non platform assembly: data-00000000164E4B60 (this message is harmless)
+Non platform assembly: data-0000000011E72720 (this message is harmless)
+Non platform assembly: data-00000000164E4B60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000164E4B60.dll
+Non platform assembly: data-0000000016507170 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016507170.dll
+Non platform assembly: data-0000000016508F80 (this message is harmless)
+Non platform assembly: data-0000000016508F80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016508F80.dll
+Non platform assembly: data-0000000016574D90 (this message is harmless)
+Non platform assembly: data-0000000016574D90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016574D90.dll
+Non platform assembly: data-00000000165807A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165807A0.dll
+Non platform assembly: data-000000001659C1B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001659C1B0.dll
+Non platform assembly: data-00000000165AF9C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165AF9C0.dll
+Non platform assembly: data-00000000165BB1D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165BB1D0.dll
+Non platform assembly: data-00000000165C69E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165C69E0.dll
+Non platform assembly: data-00000000165D23F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165D23F0.dll
+Non platform assembly: data-00000000165E1C00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165E1C00.dll
+Non platform assembly: data-00000000165ED410 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165ED410.dll
+Non platform assembly: data-00000000165F8C20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000165F8C20.dll
+Non platform assembly: data-0000000016606430 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016606430.dll
+Non platform assembly: data-000000001660B840 (this message is harmless)
+Non platform assembly: data-0000000016629250 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016629250.dll
+Non platform assembly: data-000000001664DE60 (this message is harmless)
+Non platform assembly: data-000000001661B840 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001661B840.dll
+Non platform assembly: data-000000001661CA50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001661CA50.dll
+Non platform assembly: data-000000001661D860 (this message is harmless)
+Non platform assembly: data-000000000DBA5D20 (this message is harmless)
+Non platform assembly: data-000000001661D860 (this message is harmless)
+Non platform assembly: data-0000000016564F40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016564F40.dll
+Non platform assembly: data-0000000016621860 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016621860.dll
+Non platform assembly: data-000000001664DE60 (this message is harmless)
+Non platform assembly: data-0000000016623C70 (this message is harmless)
+Non platform assembly: data-000000000DBA5D20 (this message is harmless)
+Non platform assembly: data-0000000016623C70 (this message is harmless)
+Non platform assembly: data-000000001664DE60 (this message is harmless)
+Non platform assembly: data-000000000DBA5D20 (this message is harmless)
+Non platform assembly: data-0000000016623C70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016623C70.dll
+Non platform assembly: data-000000001664DE60 (this message is harmless)
+Non platform assembly: data-000000001664DE60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001664DE60.dll
+Non platform assembly: data-000000001664F670 (this message is harmless)
+Non platform assembly: data-000000001664F670 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001664F670.dll
+Non platform assembly: data-0000000016661280 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016661280.dll
+Non platform assembly: data-000000000DBA5D20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DBA5D20.dll
+Non platform assembly: data-0000000016677690 (this message is harmless)
+Non platform assembly: data-0000000016677690 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016677690.dll
+Non platform assembly: data-0000000016716780 (this message is harmless)
+Non platform assembly: data-0000000016716780 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016716780.dll
+Non platform assembly: data-000000001672B590 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001672B590.dll
+Non platform assembly: data-00000000168FEE50 (this message is harmless)
+Non platform assembly: data-00000000168FEE50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000168FEE50.dll
+Non platform assembly: data-00000000169AD460 (this message is harmless)
+Non platform assembly: data-00000000169AD460 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169AD460.dll
+Non platform assembly: data-00000000169AEE70 (this message is harmless)
+Non platform assembly: data-00000000169AEE70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169AEE70.dll
+Non platform assembly: data-00000000169C7080 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169C7080.dll
+Non platform assembly: data-00000000169C8E90 (this message is harmless)
+Non platform assembly: data-0000000011E72720 (this message is harmless)
+Non platform assembly: data-00000000169C8E90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169C8E90.dll
+Non platform assembly: data-00000000169E3CA0 (this message is harmless)
+Non platform assembly: data-00000000169E3CA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169E3CA0.dll
+Non platform assembly: data-00000000169F70B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169F70B0.dll
+Non platform assembly: data-00000000169FCCC0 (this message is harmless)
+Non platform assembly: data-00000000169FCCC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000169FCCC0.dll
+Non platform assembly: data-0000000016A000D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A000D0.dll
+Non platform assembly: data-0000000016A61EE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A61EE0.dll
+Non platform assembly: data-0000000016B038F0 (this message is harmless)
+Non platform assembly: data-0000000016B23300 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B23300.dll
+Non platform assembly: data-0000000016B038F0 (this message is harmless)
+Non platform assembly: data-0000000016B26110 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B26110.dll
+Non platform assembly: data-0000000016B3FD20 (this message is harmless)
+Non platform assembly: data-0000000016B3FD20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B3FD20.dll
+Non platform assembly: data-0000000016B52930 (this message is harmless)
+Non platform assembly: data-0000000016B0F900 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B0F900.dll
+Non platform assembly: data-0000000016B52930 (this message is harmless)
+Non platform assembly: data-0000000016B1C110 (this message is harmless)
+Non platform assembly: data-0000000016B52930 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B52930.dll
+Non platform assembly: data-0000000016B1C110 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B1C110.dll
+Non platform assembly: data-0000000016B6AF40 (this message is harmless)
+Non platform assembly: data-0000000016B6AF40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B6AF40.dll
+Non platform assembly: data-0000000016CAA8D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CAA8D0.dll
+Non platform assembly: data-0000000016CC2EE0 (this message is harmless)
+Non platform assembly: data-0000000016BE1F50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016BE1F50.dll
+Non platform assembly: data-0000000017A50040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000017A50040.dll
+Non platform assembly: data-0000000016CC2EE0 (this message is harmless)
+Non platform assembly: data-0000000016CC2EE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CC2EE0.dll
+Non platform assembly: data-0000000016D30AF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D30AF0.dll
+Non platform assembly: data-0000000016CF8B70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CF8B70.dll
+Non platform assembly: data-0000000016D32F00 (this message is harmless)
+Non platform assembly: data-0000000016BE7360 (this message is harmless)
+Non platform assembly: data-0000000016BE7360 (this message is harmless)
+Non platform assembly: data-0000000016D50910 (this message is harmless)
+Non platform assembly: data-0000000016D50910 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D50910.dll
+Non platform assembly: data-0000000016CFAB80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CFAB80.dll
+Non platform assembly: data-0000000016BE7360 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016BE7360.dll
+Non platform assembly: data-0000000016D52B20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D52B20.dll
+[Movable Sandbags] Using outdated ModCheck.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current API version: 0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mod Camouflage and Stealth has API client (0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mod Rimatomics has API client (0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mod Rimefeller has API client (0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mod ResearchPal has API client (0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[HugsLib] version 6.1.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+:: Outpost 21 Toolbox Version 0.1.0 Loaded ::
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[GFM] MercenariesForMe found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[MFM] EPOE found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[MFM] CONN found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[MFM] Guards For Me found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Mono.Security.dll (this message is harmless)
+Rimatomics 1.6.931
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rimefeller 1.2.664
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] Psychology found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] SmartMedicine found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] Android Tiers found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] SaveOurShip2 found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] Power++ found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DubsMintMenus 1.2.463
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DubsMintMinimap 1.2.295
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RimThemes 2019 R3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ADS Easily Patched RH_Tactical_GermanShepherd+(recipes), BlackHarpy+(recipes), Centaur+(recipes), Cowgirl+(recipes), Impmother+(recipes), Dragongirl+(recipes), Dryad+(recipes), FairyForest+(recipes), FairyIce+(recipes), Harpy+(recipes), Slime+(recipes), Thrumbomorph+(recipes), 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ADS Easily Patched RH_Tactical_GermanShepherd, BlackHarpy, Centaur, Cowgirl, Impmother, Dragongirl, Dryad, FairyForest, FairyIce, Harpy, Slime, Thrumbomorph, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ADS Easily Patched BlackHarpy, Cowgirl, Impmother, Dragongirl, FairyForest, FairyIce, Harpy, Slime, Thrumbomorph, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ADS Easily Patched RH_Tactical_GermanShepherd, Centaur, Dryad, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 2.1 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 6.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 1.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 3.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 7.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 2.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 0.1 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 0.1 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimThemesError] Invalid custom sound FloatMenu_Close : Object reference not set to an instance of an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+d3d: failed to create 2D texture id=11089 w=4 h=125 mips=8 d3dfmt=21 [invalid call]
+d3d: failed to create 2D texture id=25245 w=40 h=63 mips=7 d3dfmt=21 [invalid call]
+d3d: failed to create 2D texture id=25253 w=40 h=63 mips=7 d3dfmt=21 [invalid call]
+Translation data for language English has 617 errors. Generate translation report for more info.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Multiplayer version 0.4.8.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player's username: AlexWingace
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Processor: AMD FX(tm)-8120 Eight-Core Processor 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patching Multiplayer for DubsMintMenus, Version=1.2.7240.1178, Culture=neutral, PublicKeyToken=null...OK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patching Multiplayer for DubsMintMinimap, Version=1.1.7215.27355, Culture=neutral, PublicKeyToken=null...OK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Body/RK_Tail: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Body/RK_EarLeft: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Body/RK_EarRight: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Rabbielike/Tails/RBTail: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Rabbielike/Ear/RBEarLA: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Rabbielike/Ear/RBEarLB: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Rabbielike/Ear/RBEarRA: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Rabbielike/Ear/RBEarRB: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for Kijin/Horn/KijinHornB: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Tails/DRNTFTailA: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Tails/DRNTFTailB: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Ear/DRNTFEarLA: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Ear/DRNTFEarLB: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Ear/DRNTFEarRA: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Variants found for DRNTF/Ear/DRNTFEarRB: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Alien race successfully completed 131 patches with harmony.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patching
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Questionable Ethics Enhanced is incompatible with Multiplayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Red Horse Furniture] BHR patch loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EnhancedDevelopment.Embrasures.Patcher(): Starting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: Applying Patch: Embrasures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: Applied Patch: Embrasures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EnhancedDevelopment.Embrasures.Patcher(): Complete.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show Hair Harmony Patches:
+  Transpiler:
+    PawnRenderer.RenderPawnInternal
+  Postfix:
+    PawnRenderer.RenderPawnInternal
+    Game.InitNewGame
+    SavedGameLoader.LoadGameFromSaveFile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PickUpAndHaul v0.1.0.5¼ welcomes you to RimWorld with pointless logspam.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SS No Rogue Robots :: Starting patches...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SS No Rogue Robots :: (PATCH 1) Patched compiler generated method RimWorld.CompSpawnerMechanoidsOnDamaged.<TrySpawnMechanoids>m__1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SS No Rogue Robots :: (PATCH 2) Patched compiler generated method RimWorld.BaseGen.SymbolResolver_RandomMechanoidGroup.<Resolve>m__0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Compatibility-Patch for MintMenu is active.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Allow patch: RIMMSqol:ArchitectButtonFix[ArchitectButtonVisibility]
+Allow patch: RIMMSqol:CompPowerTrader_PowerOn[PowerTraderZero]
+Allow patch: RIMMSqol:CompPowerTrader_ResetPowerVars[PowerTraderZero]
+Allow patch: RIMMSqol:CompPowerTrader_PostSpawnSetup[PowerTraderZero]
+Allow patch: RIMMSqol:DebugAction_RegenerateFactionLeaders[DebugMenuOptions]
+Allow patch: RIMMSqol:DefMapSaveStateFixRecordDef[DefMap]
+Allow patch: RIMMSqol:DefMapSaveStateFixWorkTypeDef[DefMap]
+Allow patch: RIMMSqol:Designator_Dropdown_ProcessInput[DesignatorDropdown]
+Allow patch: RIMMSqol:DrawStatsReport_EditShortcut[StatsReportEditShortcut]
+Allow patch: RIMMSqol:FloatMenuDecorations_Designator_Dropdown_ProcessInput[FloatMenuDecorations]
+Allow patch: RIMMSqol:FloatMenuDecorations_Designator_Build_ProcessInput[FloatMenuDecorations]
+Allow patch: RIMMSqol:MainTabWindow_Research_DrawRightRect[ResearchTabDrawer]
+Allow patch: RIMMSqol.pathfinding:PathfindingFix[Pathfinding]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_Face[PawnRotation]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_FaceCell[PawnRotation]
+Allow patch: RIMMSqol.performance.workgiver_dobill:WorkGiver_DoBill_TryFindBestBillIngredients[DoBillIngredientSearchRadius]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_WorldPawnGCTick[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_RunGC[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_LogDotgraph[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_PawnGCDebugResults[WorldPawnGC]
+Allow patch: RIMMSqol:PreventAnimalFamilies_Pawn_RelationsTracker_AddDirectRelation[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventAnimalFamilies_TaleRecorder_RecordTale[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventTamenessDecay_Pawn_TrainingTracker_TrainingTrackerTickRare[StopTamenessDecay]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesInt[NumericTextboxes]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesFloat[NumericTextboxes]
+Allow patch: RIMMSqol:PawnGraphicSet_ResolveAllGraphics[CUM]
+Allow patch: RIMMSqol:SnowUtility_MovementTicksAddOn[SnowUtilityMovementTicksAddOn]
+Allow patch: RIMMSqol:SpawnRemnantColony[RemnantColony]
+Allow patch: RIMMSqol:DisplayConfirmationDialog[RemnantColony]
+Allow patch: RIMMSqol.storyteller:MapDeiniter_Deinit[Storyteller]
+Allow patch: RIMMSqol.storyteller:Storyteller_StorytellerTick[Storyteller]
+Allow patch: RIMMSqol:ThingFilter_SetAllow_StuffCategoryDef[ThingFilterBugfix]
+Allow patch: RIMMSqol:ThingForbiddenPredicatesFix[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood1[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood2[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood3[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood4[ForbidByContext]
+Allow patch: RIMMSqol:TrackLevelUp[TrackLevelUp]
+Allow patch: RIMMSqol:StopSkillDecay[StopSkillDecay]
+Allow patch: RIMMSqol.translations:LanguageChangeListener[LanguageChangeListener]
+Allow patch: RIMMSqol:WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix[DoBillIngredientOverflow]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Psychology Imprisonment Patch successfully loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: Initialized compatibility for Multiplayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InGameDefEditor Harmony Patches:
+  Prefix:
+    Page_SelectScenario.BeginScenarioConfiguration
+    SavedGameLoaderNow.LoadGameFromSaveFileNow
+    Root_Play.SetupForQuickTestPlay
+  Postfix:
+    UIRoot.UIRootOnGUI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimHUD v1.5.2] Integrated with HugsLib
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimHUD v1.5.2] Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Type TextureChooser probably needs a StaticConstructorOnStartup attribute, because it has a field LeftArrow of type Texture2D. All assets must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: Preparing research nodes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Ship computer core: Starflight basics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Ship navigation: Starflight basics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Shuttle bay: Starflight basics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Cargo Shuttle: Starflight basics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Crude bionics: Microelectronics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Rabbie Rail Cannons: Lunar Nanomachines
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Advanced food preservation: Electricity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Reconnaissance drones: Radio detection and ranging
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	redundant prerequisites for Book of Wisdom: Smithing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	ShipEngine has a lower techlevel than (one of) it's prerequisites
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	ShipPilotSeat has a lower techlevel than (one of) it's prerequisites
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	ShuttlePersonal has a lower techlevel than (one of) it's prerequisites
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	Lunararchitecture has a lower techlevel than (one of) it's prerequisites
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: 	Planetcocktail has a lower techlevel than (one of) it's prerequisites
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: Reducing crossings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: Finalizing layout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ResearchPal :: Restoring queue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HelpTab :: Failed to build help for: Alien_Kijin
+	System.NullReferenceException: Object reference not set to an instance of an object
+  at HelpTab.HelpBuilder.HelpPartsForHumanoid (Verse.ThingDef raceDef, System.Collections.Generic.List`1& statParts, System.Collections.Generic.List`1& linkParts) [0x00000] in <filename unknown>:0 
+  at HelpTab.HelpBuilder.HelpForHumanoid (Verse.ThingDef def, HelpTab.HelpCategoryDef category) [0x00000] in <filename unknown>:0 
+  at HelpTab.HelpBuilder.HelpForDef[ThingDef] (Verse.ThingDef def, HelpTab.HelpCategoryDef category) [0x00000] in <filename unknown>:0 
+  at HelpTab.HelpBuilder.ResolveDefList[ThingDef] (IEnumerable`1 defs, HelpTab.HelpCategoryDef category) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[HugsLib] initializing ShipInteriorMod2, MapReroll, MURUVWallLight, Psychology, RunAndGun, SimpleSidearms, AvoidFriendlyFire, SoSRimatomicsPatch, AllowTool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Apparel Stuff Color detours loaded, hopefully correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimHUD v1.5.2] Integrated with Multiplayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimHUD v1.5.2] Multiplayer ready with API 0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[OgreStack]: Modify Stack Sizes Complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RimThemesError] Cannot apply theme on custom assembly : The given key was not present in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MSFRescue.StorytellerComp_TriggeredMSF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown StorytellerProperty type of MGSRescue.StorytellerComp_TriggeredMGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In-Game Definition Editor: Settings Applied
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Human
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_M7Mech
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Ratkin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Rabbie
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Female
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Male
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_RRY_Alien_Yautja
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Kijin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_DRNTF_Race
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Jiralhanae
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Mgalekgolo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Sangheili
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Unggoy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] 12 Care job collected for crafting injection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ATPP] 4 MentalBreaks collected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+at < 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 249 unused Assets to reduce memory usage. Loaded Objects now: 28306.
+Total: 1936.902222 ms (FindLiveObjects: 2.207896 ms CreateObjectMapping: 2.445290 ms MarkObjects: 1929.664063 ms  DeleteObjects: 2.584043 ms)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: ATPP_Rusted, no part
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully :: Loaded equipment database with 70 material(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully :: Loaded equipment database with 2470 item(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to find any texture while constructing Multi(initPath=Things/Pawn/Humanlike/Heads/Male_Average_Pointy, color=RGBA(1.000, 0.937, 0.750, 1.000), colorTwo=RGBA(1.000, 0.937, 0.750, 1.000)). Filenames have changed; if you are converting an old mod, recommend renaming textures from *_back to *_north, *_side to *_east, and *_front to *_south.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prepare Carefully could not add a hediff to the pawn: RRY_Hediff_Unblooded, Head
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to find any texture while constructing Multi(initPath=Things/Pawn/Humanlike/Heads/Female_Narrow_Normal, color=RGBA(0.963, 0.932, 0.867, 1.000), colorTwo=RGBA(0.963, 0.932, 0.867, 1.000)). Filenames have changed; if you are converting an old mod, recommend renaming textures from *_back to *_north, *_side to *_east, and *_front to *_south.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 19ac -> priority: 1 
+  Thread -> id: 1a24 -> priority: 1 
+  Thread -> id: 61c -> priority: 1 
+  Thread -> id: 1bd8 -> priority: 1 
